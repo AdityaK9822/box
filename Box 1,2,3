@@ -1,0 +1,40 @@
+<style>
+.box1{
+
+    background-color: rgba(172, 167, 167, 0.803);
+    border: 2px solid black;
+    margin: 1px;
+    padding: 10px;
+}
+
+.box2{
+
+    background-color: rgba(172, 167, 167, 0.803);
+    border: 4px solid blue;
+    margin: 15px;
+    padding: 20px;
+}
+
+.box3{
+    background-color: rgba(172, 167, 167, 0.803);
+    border: 3px dashed red;
+    margin: 30px;
+    padding: 5px;
+}
+
+</style>
+<body>
+
+    <div class="box1">
+        This is BOX 1 content
+    </div>
+
+    <div class="box2">
+        This is BOX 2 content
+    </div>
+
+    <div class="box3">
+        This is BOX 3 content
+    </div>
+
+</body>
